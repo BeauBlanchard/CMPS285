@@ -1,0 +1,15 @@
+﻿Build started 9/11/2015 11:55:55 AM.
+     1>Project "E:\School\General CMPS\VS C++ Projects\CMPS 285 Cove Project 1\CMPS 285 Cove Project 1\CMPS 285 Cove Project 1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\CMPS 285 Cove Project 1.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "CMPS 285 Cove Project 1.cpp"
+         CMPS 285 Cove Project 1.cpp
+     1>e:\school\general cmps\vs c++ projects\cmps 285 cove project 1\cmps 285 cove project 1\cmps 285 cove project 1.cpp(2): warning C4627: '#include <io.stream>': skipped when looking for precompiled header use
+         e:\school\general cmps\vs c++ projects\cmps 285 cove project 1\cmps 285 cove project 1\cmps 285 cove project 1.cpp(2): note: Add directive to 'stdafx.h' or rebuild precompiled header
+     1>e:\school\general cmps\vs c++ projects\cmps 285 cove project 1\cmps 285 cove project 1\cmps 285 cove project 1.cpp(41): error C2039: 'count': is not a member of 'std'
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stddef.h(18): note: see declaration of 'std'
+     1>e:\school\general cmps\vs c++ projects\cmps 285 cove project 1\cmps 285 cove project 1\cmps 285 cove project 1.cpp(41): error C2065: 'count': undeclared identifier
+     1>Done Building Project "E:\School\General CMPS\VS C++ Projects\CMPS 285 Cove Project 1\CMPS 285 Cove Project 1\CMPS 285 Cove Project 1.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.02
